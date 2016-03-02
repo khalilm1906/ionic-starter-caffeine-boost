@@ -18,6 +18,7 @@ $ ionic start caffeine-boost https://github.com/khalilm1906/ionic-starter-caffei
 Then, to run it, cd into `caffeine-boost` and run:
 
 ```bash
+$ npm install
 $ ionic platform add ios
 $ ionic build ios
 $ ionic emulate ios
