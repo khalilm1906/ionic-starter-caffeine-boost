@@ -12,7 +12,7 @@ Add the URL to this github repo as the last parameter to the `ionic start` comma
 
 ```bash
 $ sudo npm install -g ionic cordova
-$ ionic start caffeine-boost https://github.com/khalilm1906/ionic-starter-caffeine-boost.git
+$ ionic start caffeine-boost https://github.com/khalilm1906/ionic-starter-caffeine-boost
 ```
 
 Then, to run it, cd into `caffeine-boost` and run:
