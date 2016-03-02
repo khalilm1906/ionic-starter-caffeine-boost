@@ -6,8 +6,8 @@ app.service("YelpService", function ($q, $http) {
 		'isLoading': false,
 		'hasMore': true,
 		'results': [],
-		'lat': 51.544440,
-		'lon': -0.022974,
+		'lat': 32.785480,
+		'lon': -96.798300,
 		'refresh': function () {
 			self.page = 1;
 			self.isLoading = false;
